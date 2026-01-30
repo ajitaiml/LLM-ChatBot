@@ -1,0 +1,6 @@
+llm
+.env
+__pycache__
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
